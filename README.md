@@ -26,7 +26,7 @@
 
 - :school: I am a Junior Web Developer at `YouCode` .
   <br>
-- ✉️  You can contact me at [daalabireda@gmail.com](mailto:daalabireda@gmail.com)<a href="https://twitter.com/RDaalabi" target="_blank" rel="noreferrer">.
+- ✉️  You can contact me at [daalabireda@gmail.com](mailto:daalabireda@gmail.com)< href="https://twitter.com/RDaalabi" target="_blank" rel="noreferrer">.
   <br>
 
 ## 🔧 Technologies & Tools
@@ -41,6 +41,9 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>  
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
 
 ## Watch my contributions get eaten by a snake 🐍
 
