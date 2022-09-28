@@ -51,4 +51,4 @@
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=redaDaalabi2&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="redaDaalabi2" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=redaDaalabi2&layout=compact&theme=radical&hide_border=true" alt="redaDaalabi2" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=redaDaalabi2&layout=compact&theme=radical&hide_border=true" alt="redaDaalabi2" /></p>   
