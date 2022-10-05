@@ -1,4 +1,8 @@
 ### Hi there, I'm Reda DAALABI 👋
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals : Contribute more to Open Source projects
+- ⚡ Fun fact : I love Music 
 
 [![Youtube:Reda](https://img.shields.io/badge/-Reda-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCtn_L7BTM2Wqzm1G-VBy18w)](https://www.youtube.com/channel/UCtn_L7BTM2Wqzm1G-VBy18w)
 [![Linkedin:Reda](https://img.shields.io/badge/-Reda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reda-daalabi-1535ab1bb/)](https://www.linkedin.com/in/reda-daalabi-1535ab1bb/)
@@ -28,6 +32,21 @@
   <br>
 - ✉️  You can contact me at [daalabireda@gmail.com](mailto:daalabireda@gmail.com)
 <a href="https://twitter.com/RDaalabi" target="_blank" rel="noreferrer"></a>
+<br>
+```javascript
+const RedaDAALABI = {
+    pronouns: "he" | "him",
+    code: [Full stack developer],
+    askMeAbout: ["web dev", "tech", "music"],
+    technologies: {
+        frontEnd: {
+            html, css, sass, bootstrap, tailwind, javascript, jquery, vuejs, .
+        },
+        backEnd: {
+            php , sql, RestApi, mysql, laravel, wordpress, java.
+        }        
+    }
+};
 <br>
 
 ## 🔧 Technologies & Tools
