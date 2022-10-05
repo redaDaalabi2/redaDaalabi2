@@ -47,6 +47,7 @@ const RedaDAALABI = {
         }        
     }
 };
+```
 <br>
 
 ## 🔧 Technologies & Tools
