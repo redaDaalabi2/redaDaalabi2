@@ -1,7 +1,7 @@
 ### Hi there, I'm Reda DAALABI 👋
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals : Contribute more to Open Source projects
+- 🥅 2026 Goals : Contribute more to Open Source projects
 - ⚡ Fun fact : I love Music 
 
 [![Youtube:Reda](https://img.shields.io/badge/-Reda-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCtn_L7BTM2Wqzm1G-VBy18w)](https://www.youtube.com/channel/UCtn_L7BTM2Wqzm1G-VBy18w)
